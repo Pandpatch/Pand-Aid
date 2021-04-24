@@ -1,3 +1,3 @@
 ## Welcome to Pand-Aid's website!
 
-[About us](youtube.com)
+[About us](About us.md)
